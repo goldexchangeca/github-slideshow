@@ -1,2 +1,7 @@
 Layout: slide
-title: "Welcome to Myska Rotom!"
+title: welcome to your financial freedom 
+
+
+Wtf ever
+
+
